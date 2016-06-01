@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Project"
+    android:gravity="center_vertical">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.50">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/imageView"
+            android:src="@drawable/balance1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.50">
+
+        <Button
+            android:id="@+id/buttonSignIN"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sign IN"
+            android:onClick="signIn" />
+
+        <Button
+            android:id="@+id/buttonSignUP"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Sign UP"/>
+
+    </LinearLayout>
+</LinearLayout>

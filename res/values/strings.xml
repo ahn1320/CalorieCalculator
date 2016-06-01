@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Food Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="calPageTitle">Calories Intake</string>
+    <string name="hello_world">Hello world</string>
+    <string name="itemIntake">Please enter the item you ate:</string>
+    <string name="itemQuantity">Quantity</string>
+    <string name="itemCalorie">The Calories you intake:</string>
+    <string name="intakeCalNum">Calorie number</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signIn">Sign In</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+
+    <string name="exerciseType">Type of Exercise Selected:</string>
+    <string name="timeSpent">Time Spent (mins):</string>
+    <string name="calorieSpent">Calorie Spent:</string>
+    <string name="totalCalorie">Total Calorie:</string>
+
+    <string name="intakeButton">INTAKE</string>
+    <string name="exerciseButton">EXERCISE</string>
+    <string name="balanceButton">BALANCE</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="bikeDescription">Riding a bicycle uses all the biggest muscles in your body.
+        As you ride you also build lean muscle tissue in your lower body, especially in your
+        legs and glutes. Bicycling is said be anywhere from approximately
+        8 calories per minutes</string>
+    <string name="bikeTime">Time Spent on riding a bicycle</string>
+    <string name="jogDescription">Jogging is a great way of burning fat. To burn more calories,
+        do more activities, and the more strenuous the activity the greater the calorie burn.
+        You can burn 9 calories per minute.</string>
+    <string name="jogTime">Time Spent on jogging</string>
+    <string name="yogaDescription">Yoga is as an amazing full-body workout from gentle and
+        relaxing Hatha yoga. Yoga is said be anywhere from approximately
+        7 calories per minute</string>
+    <string name="yogaTime">Time Spent on Yoga</string>
+    <string name="swimDescription">Swimming for an minute can burn 8 calories. It works every
+        body part and muscle without causing strain on your body. You can swim almost every day
+        without risking injury</string>
+    <string name="swimTime">Time Spent on riding a bicycle</string>
+
+    <string name="bevergeQuantity">Enter the quantity of beverage</string>
+    <string name="donutQuantity">Enter the quantity of donut</string>
+    <string name="sandwichQuantity">Enter the quantity of sandwich</string>
+    <string name="muffinQuantity">Enter the quantity of muffin</string>
+    <string name="intake">INTAKE</string>
+    <string name="calorieIntake">Calories intake:</string>
+    <string name="calorieSpend">Calories Spent:</string>
+    <string name="balance">Balance:</string>
+    <string name="status">Statue</string>
+    <string name="foodChose">Food chose:</string>
+    <string name="numberIntake">Number intake:</string>
+    <string name="calorieIntaked">Calorie intake:</string>
+    <string name="totalInCalorie">Total Calorie</string>
+
+
+    <string-array name="exercise_time_array">
+        <item>30 mins</item>
+        <item>60 mins</item>
+        <item>90 mins</item>
+        <item>120 mins</item>
+        <item>150 mins</item>
+        <item>180 mins</item>
+        <item>210 mins</item>
+        <item>240 mins</item>
+    </string-array>
+
+    <string-array name="sandwich_array">
+        <item>Biscuit,Bacon,Egg,Cheese</item>
+        <item>Biscuit,Bacon,Egg White,Cheese </item>
+        <item>Biscuit,Sausage,Egg,Cheese</item>
+        <item>Biscuit,Bacon,Egg White,Cheese</item>
+        <item>Biscuit,Sausage,Egg White,Cheese</item>
+        <item>Biscuit,Egg,Cheese</item>
+        <item>English Muffin,Bacon,Egg,Cheese</item>
+        <item>English Muffin,Sausage,Egg,Cheese</item>
+    </string-array>
+
+    <string-array name="beverage_array">
+        <item>Coffee (Black)</item>
+        <item>Coffee (1 Cream, 1 Sugar)</item>
+        <item>Tea (Black)</item>
+        <item>Hot Chocolate</item>
+        <item>White Hot Chocolate</item>
+        <item>Iced Capp (Cream)</item>
+        <item>Iced Coffee (Cream)</item>
+        <item>French Vanilla Cappuccino</item>
+    </string-array>
+
+    <string-array name="donut_array">
+        <item>Chocolate Dip</item>
+        <item>Honey Dip</item>
+        <item>Maple Dip</item>
+        <item>Chocolate White Coconut</item>
+        <item>Cinnamon Sugar</item>
+        <item>Old Fashion Plain</item>
+        <item>Old Fashion Sugar</item>
+        <item>White Coconut</item>
+    </string-array>
+
+    <string-array name="muffin_array">
+        <item>Chocolate Dip</item>
+        <item>Honey Dip</item>
+        <item>Maple Dip</item>
+        <item>Chocolate White Coconut</item>
+        <item>Cinnamon Sugar</item>
+        <item>Old Fashion Plain</item>
+        <item>Old Fashion Sugar</item>
+        <item>White Coconut</item>
+    </string-array>
+
+    <array name="number_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </array>
+</resources>
